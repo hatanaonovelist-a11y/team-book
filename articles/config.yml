@@ -22,7 +22,7 @@ bookname: 億とバズ
 language: ja
 
 # 書名
-booktitle: {name: "Re:VIEWテンプレート", file-as: "reviewテンプレート"}
+booktitle: {name: "億とバズ", file-as: "億とバズ"}
 
 # 著者名。「, 」で区切って複数指定できる
 aut: [{name: "羽多奈緒、紀野しずく", file-as: "techboosterヘン"}]
@@ -47,7 +47,7 @@ aut: [{name: "羽多奈緒、紀野しずく", file-as: "techboosterヘン"}]
 # a-csl, csl: 監修者
 # a-dsr, dsr: デザイナ
 # a-edt, edt: 編集者
-edt: ["mhidaka"]
+# edt: ["mhidaka"]
 # a-ill, ill: イラストレータ
 # a-lyr, lyr: 歌詞作成者
 # a-mdc, mdc: メタデータセットの一次的責任者
@@ -56,7 +56,7 @@ edt: ["mhidaka"]
 # a-oth, oth: その他
 # a-pht, pht: 撮影責任者
 # a-pbl, pbl: 出版社（発行所）
-pbl: TechBooster
+pbl: 未定
 # a-prt, prt: 印刷所
 # prt: TechBooster
 # a-red, red: 項目の枠組起草者
@@ -74,10 +74,10 @@ date: 2026-2-8
 # 複数指定する場合は次のように記述する
 # [["初版第1刷の日付", "初版第2刷の日付"], ["第2版第1刷の日付"]]
 # 日付の後ろを空白文字で区切り、任意の文字列を置くことも可能。
-history: [["2026-2-8 技術書典20版 v1.0.0"]]
+history: [["2026-2-8 ブッカソン"]]
 # 権利表記(配列で複数指定可)
 # rights: (C) 2016 Re:VIEW Developers
-rights: (C) 2017-2026 TechBooster
+rights: (C) 2026 Nao Hata, Shizuku Kino
 # description: 説明
 # subject: 短い説明用タグ(配列で複数指定可)
 # type: 書籍のカテゴリーなど(配列で複数指定可)
